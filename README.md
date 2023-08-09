@@ -1,6 +1,7 @@
 Flashpost Blog
 
 Flashpost Blog is a fast and lightweight blog built using Vite, React.js, MongoDB, Express.js, Node.js, and styled with Tailwind CSS. It provides a platform to create and share your thoughts, ideas, and insights through well-crafted blog posts.
+
 Features
 
     User-friendly interface with a clean and responsive design.
